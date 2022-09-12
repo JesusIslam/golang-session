@@ -1,2 +1,2 @@
 # golang-session
-Golang learning sessions.
+Golang learning materials.
